@@ -1,0 +1,16 @@
+{
+  "name": "riot-quickstart",
+  "version": "1.0.0",
+  "description": "riot-quickstart",
+  "main": "",
+  "scripts": {
+    "start": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Skrenta",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^4.0.0"
+  }
+}
