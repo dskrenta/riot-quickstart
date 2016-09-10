@@ -1,7 +1,7 @@
 <example>
   <h2>This is { sample }</h2>
   <h3>{ hello }</h3>
-  <p>Hello, David</p>
+  <p>Hello, I am Kamala Harris</p>
 
   <table class="table table-striped table-hover">
       <thead>
